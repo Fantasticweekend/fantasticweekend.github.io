@@ -1,9 +1,45 @@
 ---
 layout: page
-title: About
+title: Lexique
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Platformer / Plate-formes
 
-email: agus[at]python.web.id
+Simulation
+
+Gestion
+
+Combat
+
+Beat them  All
+
+Shoot them up
+
+FPS
+
+TPS
+
+Metroidvania
+
+Rogue-like / Rogue-lite
+
+Sandbox
+
+Battle Royale
+
+IO
+
+MMORPG
+
+CCG
+
+Tour par tour
+
+Souls-like
+
+Puzzle
+
+Idle game / Jeu incrémental
+
+Match 3
