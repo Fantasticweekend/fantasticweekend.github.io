@@ -19,9 +19,9 @@ social:
       link: "https://github.com/fantasticweekend"
 
 urls:
-    - text: About Me
+    - text: Les genres de jeux-vidéo
       url: /about/
-    - text: Jeux-vidéo
+    - text: Gallerie des jeux
       url: /projects/
     - text: XML
       url: /feed.xml
