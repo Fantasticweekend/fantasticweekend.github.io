@@ -3,8 +3,8 @@ description: Ressources numériques pour bibliothèques
 author: David R.
 github: https://github.com/numenbib
 about: Responsable numérique en bibliothèque / Maker / Electronicien
-//disqus_shortname: stackproblems
-//google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: stackproblems
+google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
 tagarray: []
