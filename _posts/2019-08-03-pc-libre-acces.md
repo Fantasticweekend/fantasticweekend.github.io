@@ -19,7 +19,7 @@ Bref, pour moi, les jeux-vidéo sont et ont toujours été une activité de grou
 
 Je cherchais donc un moyen de recréer cette effervescence dans ma bibliothèque, et je pense avoir trouvé un début de solution.
 
-## Première étape : Quels jeux ?
+## Première étape : Quel objectif ?
 
-Le choix des jeux est peut-être la partie la plus importante de ce projet. C'est le choix des jeux qui va définir 
+Lors de la création de cet espace, mon objectif était que des adolescents qui ne se connaissent pas sympathisent autour d'un jeu.
 
