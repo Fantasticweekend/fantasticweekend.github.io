@@ -1,13 +1,23 @@
 ---
 layout: post
-title:  "CensorThis - Censor the words [CF]"
-date:   2016-05-22 04:17:54 +0700
-categories: [python, codefights]
+title:  "Jeux vidéo en bibliothèque : Médiathèque de la Marine (Colombes, 92)"
+date:   2019-08-03 13:30:54 +0100
+categories: [jeux-vidéo, médiathèque]
 ---
 
-Author Question: **Argaen**
+Je vous présente quelques exemples de mise à dispositon de jeux-vidéo en médiathèque. Pour ce premier épisode, il s'agit de ce que j'ai mis en place à la médiathèque de la Marine, de la ville de Colombes (92). C'est une médiathèque de quartier, le budget alloué aux jeux-vidéo est de 300€/an, la médiathèque dispose d'une PS4, une Switch, une petite borne d'arcade (raspberry pi), un pc pour la réalité virtuelle et un parc de 12 EPN (sous linux).
 
-Code Fights Weekly has gained popularity in the past months and is receiving lots of fan letters. Unfortunately, some of the readers use offensive words and the editor wants to keep the magazine family friendly.
+Dans cette médiathèque il n'y a pas de système de prêt de jeu. Uniquement du jeu sur place.
+
+## Consoles
+
+Les consoles sont placées dans un espace vitré fermé appellé la "bulle jeux-vidéo". La bulle est un espace assez petit (<10m²) dans lequel sont branchées une PS4, une Switch et deux téléviseurs. Les consoles sont placées dans des meubles fermés à clé pour ne pas être directement accessibles au public.
+
+Les usagers peuvent se présenter à la banque de prêt seuls ou à deux, on leur remet des manettes en échange de leur carte de bibliothèque pour une session de 45 minutes. Les enfants de moins de 8 ans doivent impérativement être accompagnés par un adulte. A partir de 8 ans la présence d'un adulte est souhaitable, mais pas obligatoire. A partir de 12 ans l'usager peut venir seul.
+
+Tous les titres présents sur la console sont téléchargés en version dématérialisée, il n'est donc pas nécessaire de faire intervenir un bibliothécaire pour changer de jeu, et il n'y a pas besoin d'accèder physiquement à la console.
+
+
 
 To manage this, you have been asked to implement a censorship algorithm. You will be given the fan letter `text` and a list of `forbiddenWords`. Your algorithm should replace all occurrences of the forbidden words in the text with sequences of asterisks of the same length.
 
