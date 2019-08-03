@@ -4,15 +4,24 @@ title: Lexique
 permalink: /about/
 ---
 
+Ces définitions sont en grande partie tirées du site communautaire Wikipedia. J'allais pas inventer l'eau chaude.
+La plupart des termes qui figurent dans ce lexique peuvent être combinés pour qualifier le gameplay d'un jeu. Par exemple, le jeu SimCity peut être qualifié de jeu de Gestion, de City Builder, de Sandbox... On parle généralement de "tags" (ou étiquettes) lorsque l'on cherche à définir le gameplay d'un jeu.
+
 ## Platformer / Plate-formes
 
-Apparu au début des années 80, le jeu de plate-formes est un des genres les plus connus, notamment à travers des jeux comme Super Mario. Il s'agit de jeux dans lesquels le joueur doit faire franchir des obstacles à son avatar. Dans un premier temps en deux dimensions, les jeux de plate-forme ont gagné une troisième dimension à la fin des années 90, nottament à travers des titres comme Super Mario 64 ou Crash Bandicoot. Les jeux de plate-forme sont souvent organisés en niveaux successifs, de plus en plus durs, et qui laissent régulièrement apparaitre de nouvelles mécaniques (plate-formes mobiles, nouveaux ennemis...).
+Un jeu de plates-formes (ou platformer) est un genre de jeu vidéo, sous-genre du jeu d'action. Dans les jeux de plates-formes, le joueur contrôle un avatar qui doit sauter sur des plates-formes suspendues dans les air et éviter des obstacles. Les environnements requièrent de devoir sauter ou grimper pour pouvoir être traversés. Le joueur a un contrôle sur la hauteur et la distance des sauts. L'élément le plus commun à ce genre de jeux est de proposer un bouton ou une touche dédié au saut (ou un contrôle alternatif de type tactile par exemple). D'autres manœuvres acrobatiques peuvent venir modifier le gameplay comme l'utilisation d'un grappin ou de trampolines par exemple.
+
+Les jeux de plates-formes sont apparus au début des années 1980, tout d'abord en 2D (Super Mario Bros), intégrant souvent des systèmes d'échelles à grimper. Le genre a connu un nouvel essor dans les années 1990 avec l'apparition des premiers jeux de plates-formes en 3D (Mario 64 / Crash Bandicoot).
 
 ## Gestion
 
-Un jeu de gestion est un jeu dans lequel le joueur doit gérer des facteurs économiques. Les titres les plus emblématiques seraient Sim City, Caesar, La série des Tycoon's, Theme Park... Le joueur est mis dans la peau d'un gérant de ville / commerce et doit assurer le développement de son activité. Dans la plupart des jeux de gestion le joueur à un point de vue omniscient : toutes les informations sont visibles à tout moment pour permettre au joueur de planifier un maximum d'actions.
+Le jeu de gestion est un type de jeu de société, de jeu de rôle par forum et jeu vidéo et dans lequel le joueur dirige le plus souvent une entreprise, un club sportif, parfois une ville ou un pays ; il doit gérer les différents facteurs économiques.
+Dans les jeux de gestion le joueur a souvent un point de vue omniscient, il dispose souvent d'outils permettant de planifier ses actions ou d'anticiper ses dépenses.
+Les exemples les plus connus seraient les séries SimCity, Theme Park, Caesar, Tycoon, ou les plus récents CitiesXL.
 
 ## Combat
+
+[NOW]
 
 Comme le jeu l'indique, les jeux de combat sont des jeux dans lesquels deux joueurs se battent à mort dans une série de rounds. Les plus emblématiques sont les séries de Street Fighter, Mortal Kombat, Tekken etc. Certains jeux de combat sont en deux dimensions, par exemple, les Street et les Tekken, d'autres sont en 3D, nottament la série des Soul Calibur, qui permettent des eesquives et des déplacements latéraux.
 
