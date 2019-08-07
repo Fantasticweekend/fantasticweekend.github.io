@@ -5,26 +5,19 @@ date:   2019-08-03 13:30:54 +0100
 categories: [jeux-vidéo, médiathèque]
 ---
 
-Dans la série "Jeux-vidéo en bibliothèque" je partage mes réflexions quand à la mise à dispotion de jeux-vidéo dans un espace public. Dans ce premier billet, je vais détailler le fonctionnement du système de jeux en libre accès à la médiathèque de la Marine (Colombes, 92). Cette médiathèque a un petit espace dans lequel les usagers peuvent jouer sans inscription et sans limitation de temps.
+Dans la série "Jeux-vidéo en bibliothèque" je partage mes réflexions quand à la mise à dispotion de jeux-vidéo dans un espace public. Dans ce premier billet, je propose une manière de mettre en place un petit coin arcade pour mettre en avant le côté social du jeu-vidéo et créer une sorte de compétition passive entre usagers.
 
 ### Borne d'arcade
 
-Une petite borne d'arcade (une raspicade) est mise à disposition dans l'espace de jeu.
+Une petite borne d'arcade ([Raspicade](https://www.framboise314.fr/raspicade-les-jeux-darcade-sur-votre-raspberry-pi/)) est mise à disposition dans l'espace de jeu. C'est le moyen le moins onéreux pour acquérir une borne d'arcade, mais la mise en place d'un tel système demande quelques compétences techniques. En fin d'article je donne quelques astuces si vous voulez fabriquer votre propre borne.
 
-Le jeu est changé tous les mois et la médiathèque tient à jour les 3 meilleurs scores réalisés pendant le mois. Scores affichés sur le mur, juste à côté de la borne. Lorsque le jeu est mis en place, un(e) collègue fait une première partie sans connaître le jeu. C'est son score qui servira de référence (et c'est un moment plutôt drôle).
+Une fois la borne en place, la première étape est de choisir un jeu. Tous les mois l'équipe choisis un jeu classique (donkey kong, pacman, frogger, ikaruga, dodonpachi...) sur lequel la "compétition" aura lieu. Lorsque c'est fait, un(e) collègue fait une première partie sans connaître le jeu. C'est son score qui servira de référence (et c'est un moment plutôt drôle).
 
-On utilise une feuille de papier pour noter les scores des usagers la journée, si un des scores du top 3 est battu, on change l'affichage sur le mur à la fermeture de l'équipement.
+Les 3 meilleurs scores réalisés sont affichés à côté de la borne, avec le prénom de l'usager qui l'a réalisé. On utilise une feuille de papier pour que les usagers puissent noter leur score au cours la journée, et les bibliothécaires mettent à jour l'affichage à la fin de la journée.
 
-Pour le lancement du dispositif, chaque début de mois on a réalisé une petite planche d'autocollants qui représentent un personnage du jeu. Chaque personne qui bât un score affiché gagne un autocollant.
+Une petite plaquette de présentation est posée à côté de la borne. Elle explique le principe du jeu, récapitule les commandes en jeu et 
 
-## Pourquoi ?
 
-J'étais encore adolescent il n'y a pas si longtemps, et j'ai d'innombrables souvenirs d'après-midi (voir de nuits entières !) passées avec un groupe d'amis à jouer à Super Smash Bros en un contre un, chacun son tour sur la console. On se comparaît, on échangeait des techniques, on devenait plus forts au contact des uns et des autres, lorsque nous sympathisions avec de nouvelles personnes c'était une étape obligatoire.
 
-Je me souviens également des cyber-cafés, où de parfaits inconnus nous mettaient la misère sur Counter-Strike pendant des heures, puis, lassés, nous allions les rencontrer à la recherche d'astuces ou de conseils en échange de sucreries. La journée se terminait généralement par une partie de Warcraft 3 en réseau local avec les-dits inconnus (qui, du coup, n'en étaient plus).
 
-Expérience plus récente, mes colocataires et moi sommes unis par notre amour inconditionnel de jeux comme FTL, The Binding of Isaac ou Risk of Rain, et nous avons passé également de longs moments à évoquer nos madeleines de Proust respectives (notament mon pote Matthieu qui cherche desespérement les sensations qu'il a éprouvé devant Ocarina of Time quand il était enfant).
 
-Bref, pour moi, les jeux-vidéo sont et ont toujours été une activité de groupe. Personne ne joue seul. Alors oui, parfois, dans les faits, on est seuls devant sa console ou son PC. Mais nos amis jouent généralement aux mêmes jeux que nous ! On compare notre progression dans le jeu, nos scores si il y en a, nos stratégies, nos astuces...
-
-Je cherchais donc un moyen de recréer cette effervescence dans ma bibliothèque, et je pense avoir trouvé un début de solution.
