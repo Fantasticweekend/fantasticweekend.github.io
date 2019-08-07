@@ -7,7 +7,17 @@ categories: [jeux-vidéo, médiathèque]
 
 Dans la série "Jeux-vidéo en bibliothèque" je partage mes réflexions quand à la mise à dispotion de jeux-vidéo dans un espace public. Dans ce premier billet, je propose une manière de mettre en place un petit coin arcade pour mettre en avant le côté social du jeu-vidéo et créer une sorte de compétition passive entre usagers.
 
-### Borne d'arcade
+### Acquisition d'une borne d'arcade
+
+C'est toujours la partie la plus chiante...
+Il existe plusieurs solutions abordables pour avoir une borne d'arcade. La première étant d'acheter un kit tout fait.
+
+Il y a deux grand modèles de borne d'arcade : les bornes "de plein pied" qui font la taille d'un frigo et qui se vendent pour 1000 € ou plus (il s'agit souvent d'objets de collection). Et les bornes de type "bartop", faites pour être posées sur une table, qui se négocient à partir de 200 € environ. On se dirigera plutôt sur la deuxième option.
+
+La solution qui a été privilégiée par mon équipement est la borne ["Picade"](https://www.kubii.fr/consoles-retro-gaming/2450-console-picade-avec-ecran-8-10-kubii-3272496013971.html). C'est une petite borne d'arcade dont le prix varie entre 170 et 220 €. Le meuble est bien foutu, la décoration est sympathique, l'écran est un peu petit mais convient parfaitement pour l'usage. 
+
+La solution
+
 
 Une petite borne d'arcade ([Raspicade](https://www.framboise314.fr/raspicade-les-jeux-darcade-sur-votre-raspberry-pi/)) est mise à disposition dans l'espace de jeu. C'est le moyen le moins onéreux pour acquérir une borne d'arcade, mais la mise en place d'un tel système demande quelques compétences techniques. En fin d'article je donne quelques astuces si vous voulez fabriquer votre propre borne.
 
